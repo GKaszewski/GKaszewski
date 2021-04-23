@@ -27,5 +27,5 @@
 <img align="left" width="22px" src="./icons/qt.svg">
 <br />
 
-[website]: https://gabrielkaszewski.netlify.app/
+[website]: https://gabrielkaszewski.pl/
 [linkedin]: https://www.linkedin.com/in/gabriel-kaszewski-5344b3183/
