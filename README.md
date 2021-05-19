@@ -1,8 +1,6 @@
 ### Hi there, I'm Gabriel 👋
 
-## I'm a self-taught full stack developer.
-- 👯 I’m looking for a job as a full stack developer.
-- I learn new things quickly.
+## I am a self-taught full stack developer.
 
 ### Connect with me:
 [<img align="left" alt="https://gabrielkaszewski.pl/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
