@@ -1,8 +1,7 @@
 ### Hi there, I'm Gabriel 👋
 
-## I am a self-taught full stack developer.
-
-## I work as Python Developer at **digimonkeys.com**
+I am a self-taught full stack developer.
+I work as Python Developer at **digimonkeys.com**
 
 ### Connect with me:
 [<img align="left" alt="https://gabrielkaszewski.pl/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
