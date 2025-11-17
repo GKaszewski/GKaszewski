@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel 👋
 
-I'm a Software Developer at **Choreograph** with a lifelong passion for coding. My background is in Bioinformatics, from which I earned my Bachelor's degree at the University of Gdańsk (2025), and I am currently pursuing a Master's degree in Computer Science.
+I'm a Software Developer at **Choreograph** with a lifelong passion for coding. My background is in Bioinformatics, from which I earned my Bachelor's degree at the University of Gdańsk (2025), and I am currently planning on pursuing a Master's degree in Computer Science.
 
 In my free time, I enjoy exploring new technologies like **Rust** and channeling my creativity into personal projects, such as my indie game, [**Mr. Brick Adventures**](https://store.steampowered.com/app/3575090/Mr_Brick_Adventures/), now available on Steam.
 
