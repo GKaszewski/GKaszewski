@@ -12,12 +12,6 @@ In my free time, I enjoy exploring new technologies like **Rust** and channeling
 - **Email:** gabriel.kaszewski@gmail.com
 
 ---
-
-### 📊 My GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GKaszewski&show_icons=true&theme=radical)
-
----
 <p align="center">
   <a href="https://github.com/GKaszewski?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
